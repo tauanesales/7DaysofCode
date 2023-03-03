@@ -2,7 +2,7 @@ import React from "react";
 import Coluna from "./Coluna";
 
 function ContainerCaixas() {
-    return <div className="linha">
+    return <div className="linha containerCaixas">
         <Coluna />
         <Coluna />
         <Coluna />
