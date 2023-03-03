@@ -8,6 +8,7 @@ function Coluna() {
         <Caixa />
         <Caixa />
         <Caixa />
+        <Caixa />
     </div>;
 }
 
