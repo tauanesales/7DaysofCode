@@ -1,7 +1,7 @@
 import React from "react";
 
 function Caixa() {
-    return <div class="caixa"></div>;
+    return <div className="caixa"></div>;
 }
 
 export default Caixa;
