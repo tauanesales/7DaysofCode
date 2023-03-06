@@ -2,7 +2,7 @@
   "name": "7-days-of-code",
   "version": "1.0.0",
   "description": "",
-  "homepage": "",
+  "homepage": "https://tauane.artadevs.tech/7DaysofCode/",
   "keywords": [],
   "main": "./src/index.js",
   "dependencies": {
