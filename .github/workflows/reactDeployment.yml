@@ -29,7 +29,7 @@ jobs:
               run: |
                   cd ./App/;
                   
-                  git config remote.origin.url 'https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git'
+                  git config remote.origin.url 'https://${{ secrets.DEPLOYMENT_TOKEN }}@github.com/${{ github.repository }}.git'
                   
                   git config --global user.name $user_name
                   git config --global user.email $user_email
